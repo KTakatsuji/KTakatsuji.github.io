@@ -3,8 +3,9 @@
 <head>
 <meta charset="utf-8">
 <title>Force Layout with labels on edges</title>
-<script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <style type="text/css">
+
 </style>
 </head>
 <body>
@@ -18,11 +19,6 @@
     var colors = d3.scale.category10();
 
 
-    // d3.json("startupNetwork.json", function(blah){
-    //     console.log(blah)
-
-
-    // });
 
     d3.json("startupNetwork.json", function(error, data) {
       
@@ -38,10 +34,10 @@
         .nodes(data.nodes)
         .links(data.links)
         .size([w,h])
-        .linkDistance([linkDistance])
-        .charge([-500])
-        .theta(0.1)
-        .gravity(0.05)
+        .linkDistance([linkDistance/2])
+        .charge([-1200])
+        //.theta(0.1)
+        //.gravity(0.001)
         .start();
 
     var edges = svg.selectAll("line")
@@ -57,9 +53,12 @@
       .data(dataset.nodes)
       .enter()
       .append("circle")
-      .attr({"r":function(d){return d.size}})
-      .style("fill",function(d,i){return colors(i);})
+        .attr({"r":function(d){return d.size}})
+        .style("fill",function(d,i){return colors(i);})
+      // .on("mouseover", mouseover)
+      // .on("mouseout", mouseout)
       .call(force.drag)
+
 
 
     var nodelabels = svg.selectAll(".nodelabel") 
@@ -101,6 +100,7 @@
             .attr('d', 'M 0,-5 L 10 ,0 L 0,5')
             .attr('fill', '#ccc')
             .attr('stroke','#ccc');
+
      
 
     force.on("tick", function(){
@@ -120,12 +120,18 @@
 
         edgepaths.attr('d', function(d) { var path='M '+d.source.x+' '+d.source.y+' L '+ d.target.x +' '+d.target.y;
                                            //console.log(d)
-                                           return path});       
+                                           return path});    
 
-        
+
+
+
+        });
+
+
+
+
     });
 
-    });
 
 //most of it taken from: http://bl.ocks.org/jhb/5955887
 

@@ -106,37 +106,37 @@
     }, 
     {
       "id": 18, 
-      "group": NaN, 
+      "group": "blah", 
       "name": "Online/app reservation system", 
       "size": 8.94427190999916
     }, 
     {
       "id": 19, 
-      "group": NaN, 
+      "group": "blah", 
       "name": "Social networking of doctors or patient communities", 
       "size": 8.94427190999916
     }, 
     {
       "id": 20, 
-      "group": NaN, 
+      "group": "blah", 
       "name": "All in one data analytics solution", 
       "size": 8.94427190999916
     }, 
     {
       "id": 21, 
-      "group": NaN, 
+      "group": "blah", 
       "name": "Health monitors of day to day activity of patients", 
       "size": 8.94427190999916
     }, 
     {
       "id": 22, 
-      "group": NaN, 
+      "group": "blah", 
       "name": "Online computer doctors", 
       "size": 8.94427190999916
     }, 
     {
       "id": 23, 
-      "group": NaN, 
+      "group": "blah", 
       "name": "Ailment specific treatment using the web or apps", 
       "size": 8.94427190999916
     }
