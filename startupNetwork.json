@@ -1,0 +1,257 @@
+{
+  "directed": false, 
+  "graph": {}, 
+  "nodes": [
+    {
+      "id": 1, 
+      "group": "A business with the goal in mind to expand on a global scale, eventually. ", 
+      "name": "Startup", 
+      "size": 24.49489742783178
+    }, 
+    {
+      "id": 2, 
+      "group": "These startups aim to resolve problems that are commonly found in the medical services which include, hospitals, insurance, doctors, and patient relations. ", 
+      "name": "Healthcare", 
+      "size": 65.49809157525127
+    }, 
+    {
+      "id": 3, 
+      "group": "These startups aim to resolve problems regarding crop generation, procurement, and distribution, as well as convenience issues farmers may have. ", 
+      "name": "Agriculture", 
+      "size": 13.45362404707371
+    }, 
+    {
+      "id": 4, 
+      "group": "These startups aim to help problems inundating the drug discovery field, and tend to fall in the human therapeutics category. It aims to resolve issues in helping humans recover from ailments using a more biology based approach.", 
+      "name": "Biotech", 
+      "size": 46.36809247747852
+    }, 
+    {
+      "id": 5, 
+      "group": "These startups aim to make the world a more environmentally clean place. This means the transition from the wasteful practices many companies currently use to more cleaner alternatives. These can range from the purification of water, to storing energy, to making certain products more recyclable. ", 
+      "name": "Clean Tech", 
+      "size": 12.083045973594572
+    }, 
+    {
+      "id": 6, 
+      "group": "These startups aim to create certain food or drink products or processes to help in the food and drink creation.", 
+      "name": "Food/drinks", 
+      "size": 26.814175355583846
+    }, 
+    {
+      "id": 7, 
+      "group": "These startups aim to help people go from location A to B in as fast, cheap and most convenient way possible. Transportation startups also include the delivery of physical goods from place A to B.", 
+      "name": "Transportation", 
+      "size": 26.267851073127396
+    }, 
+    {
+      "id": 8, 
+      "group": "These startups aim to help inform people regarding web related stuff. These startups can range from being a business to customer, or business to business solution.", 
+      "name": "Productivity", 
+      "size": 57.86190456595773
+    }, 
+    {
+      "id": 9, 
+      "group": "These startups aim to resolve issues in the manufacturing industries. They also desire to help modulate (make more modular) processes, as well as make them cheaper. Also included in this category are startups that create physical gadgets for customer use.", 
+      "name": "Manufacturing", 
+      "size": 34.49637662132068
+    }, 
+    {
+      "id": 10, 
+      "group": "These startups aim to resolve the financial issues people or businesses have. These companies can range from issues regarding savings, spending, investing, and general financial literacy.", 
+      "name": "Financial Tech", 
+      "size": 41.50903516103452
+    }, 
+    {
+      "id": 11, 
+      "group": "These startups aim to help children learn and perform better academically. They do so with the aim of not only helping the child perform better, but to actually learn better. Aside from student oriented tech, education tech also include help streamlining lesson planning/evaluation for teachers and schools.", 
+      "name": "Education", 
+      "size": 44.82186966202994
+    }, 
+    {
+      "id": 12, 
+      "group": "These startups aim to help people create better advertising, advertising techniques, as well as data analytics on how well previous ads did.", 
+      "name": "Advertising", 
+      "size": 41.15823125451335
+    }, 
+    {
+      "id": 13, 
+      "group": "These startups aim to help provide better security for customers ranging in businesses, government, and every day people. Security is provided for things ranging from online personal information and hacking protection to name a couple.", 
+      "name": "Security", 
+      "size": 29.086079144497972
+    }, 
+    {
+      "id": 14, 
+      "group": "These startups aim to help provide novel means of entertainment to every day consumer customers. They also aim to provide convenience in getting access to entertainment.", 
+      "name": "Entertainment", 
+      "size": 25.39685019840059
+    }, 
+    {
+      "id": 15, 
+      "group": "Access to doctors is a problem because patients want to find the correct doctor for the ailment they have so they can receive the most accurate recommendation possible. Access to patients refers to doctors being able to find potential clients and is a problem because doctors want to find more customers.", 
+      "name": "Access to doctors/access to patients", 
+      "size": 10.0
+    }, 
+    {
+      "id": 16, 
+      "group": "Management of patient information is a problem for two reasons. It is for doctors because it wastes a lot of their time having to compile, sort, sift through, and understand the patient history they wrote as well as other doctors wrote. It is for patients because, currently, their is no transparency in the market. This leads to distrust of patients towards their caretaker.", 
+      "name": "Management of patient information", 
+      "size": 10.0
+    }, 
+    {
+      "id": 17, 
+      "group": "Solutions to simple ailments is a problem because many times doctor visits are unneeded and end up being a waste of time and money. And they tend to be a waste of money because the ailment turned out to be a common cold or some issue that could be resolved in a more cost and time effective manner.", 
+      "name": "Solutions to simple ailments", 
+      "size": 10.0
+    }, 
+    {
+      "id": 18, 
+      "group": NaN, 
+      "name": "Online/app reservation system", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 19, 
+      "group": NaN, 
+      "name": "Social networking of doctors or patient communities", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 20, 
+      "group": NaN, 
+      "name": "All in one data analytics solution", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 21, 
+      "group": NaN, 
+      "name": "Health monitors of day to day activity of patients", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 22, 
+      "group": NaN, 
+      "name": "Online computer doctors", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 23, 
+      "group": NaN, 
+      "name": "Ailment specific treatment using the web or apps", 
+      "size": 8.94427190999916
+    }
+  ], 
+  "links": [
+    {
+      "source": 0, 
+      "target": 1, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 2, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 3, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 4, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 5, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 6, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 7, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 8, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 9, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 10, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 11, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 12, 
+      "value": 1.0
+    }, 
+    {
+      "source": 0, 
+      "target": 13, 
+      "value": 1.0
+    }, 
+    {
+      "source": 1, 
+      "target": 15, 
+      "value": 1.0
+    }, 
+    {
+      "source": 1, 
+      "target": 16, 
+      "value": 1.0
+    }, 
+    {
+      "source": 1, 
+      "target": 14, 
+      "value": 1.0
+    }, 
+    {
+      "source": 14, 
+      "target": 18, 
+      "value": 1.0
+    }, 
+    {
+      "source": 14, 
+      "target": 17, 
+      "value": 1.0
+    }, 
+    {
+      "source": 15, 
+      "target": 19, 
+      "value": 1.0
+    }, 
+    {
+      "source": 15, 
+      "target": 20, 
+      "value": 1.0
+    }, 
+    {
+      "source": 16, 
+      "target": 21, 
+      "value": 1.0
+    }, 
+    {
+      "source": 16, 
+      "target": 22, 
+      "value": 1.0
+    }
+  ], 
+  "multigraph": false
+}
