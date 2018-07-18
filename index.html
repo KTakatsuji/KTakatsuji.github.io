@@ -2,22 +2,25 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<title>Force Layout with labels on edges</title>
+<title>StartupReview</title>
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 <style type="text/css">
+div.a {
+    padding-left: 600px;
+}
 
 </style>
 </head>
 <body>
+  <h1 style="font-family:arial;"> <b><div class="a"> Startup Map </div></b> </h1>
 
 <script type="text/javascript">
 
-    var w = 2500;
-    var h = 1500;
-    var linkDistance=200;
+    var w = 1350;
+    var h = 1200;
+    var linkDistance=90;
 
     var colors = d3.scale.category10();
-
 
 
     d3.json("startupNetwork.json", function(error, data) {
@@ -29,12 +32,22 @@
     
 
     var svg = d3.select("body").append("svg").attr({"width":w,"height":h});
+
+    var borderPath = svg.append("rect")
+      .attr("x", 0)
+      .attr("y", 0)
+      .attr("height", h)
+      .attr("width", w)
+      .style("stroke", colors(3))
+      .style("fill", "none")
+      .style("opacity", 0.3)
+      .style("stroke-width", 10);
     
     var force = d3.layout.force()
         .nodes(data.nodes)
         .links(data.links)
         .size([w,h])
-        .linkDistance([linkDistance/2.5])
+        .linkDistance([linkDistance])
         .charge([-1200])
         //.theta(0.1)
         //.gravity(0.001)
@@ -69,7 +82,9 @@
               "y":function(d){return d.y;},
               "class":"nodelabel",
               "stroke":"black"})
-       .text(function(d){return d.name;});
+       .text(function(d){return d.name;})
+       .style("opacity", 0.6);
+
 
     var edgepaths = svg.selectAll(".edgepath")
         .data(dataset.links)
