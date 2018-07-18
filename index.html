@@ -12,8 +12,8 @@
 
 <script type="text/javascript">
 
-    var w = 1350;
-    var h = 800;
+    var w = 2500;
+    var h = 1500;
     var linkDistance=200;
 
     var colors = d3.scale.category10();
@@ -34,7 +34,7 @@
         .nodes(data.nodes)
         .links(data.links)
         .size([w,h])
-        .linkDistance([linkDistance/2])
+        .linkDistance([linkDistance/2.5])
         .charge([-1200])
         //.theta(0.1)
         //.gravity(0.001)

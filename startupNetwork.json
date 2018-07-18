@@ -139,6 +139,204 @@
       "group": "blah", 
       "name": "Ailment specific treatment using the web or apps", 
       "size": 8.94427190999916
+    }, 
+    {
+      "id": 24, 
+      "group": "The goal is to increase the amount of crop output on a given plot of land, or to decrease the amount of wasted resources in developing crops. ", 
+      "name": "Crop Production Productivity", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 25, 
+      "group": "The goal is to resolve the inefficiencies that farmers and buyers face when buying and selling crops and storing them.", 
+      "name": "Crop buying and selling", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 26, 
+      "group": "The goal is to increase the total area tht can be used as farming land/increase the resources that can be used for farming. ", 
+      "name": "Agriculture space", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 27, 
+      "group": "blah", 
+      "name": "Data analytics for how crops are doing/data analytics to discover potential harvestable land", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 28, 
+      "group": "blah", 
+      "name": "Data analytics for usage of resources for growing crops", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 29, 
+      "group": "blah", 
+      "name": "New scientific based techniques for farming", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 30, 
+      "group": "blah", 
+      "name": "Data management software for crops", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 31, 
+      "group": "blah", 
+      "name": "Online marketplace for farmers", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 32, 
+      "group": "blah", 
+      "name": "Social networking for farmers", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 33, 
+      "group": "blah", 
+      "name": "Logistics of food distribution", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 34, 
+      "group": "blah", 
+      "name": "Brightfarms (a startup that builds and operates greenhouses)", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 35, 
+      "group": "These startups aim to help solve the problems that shroud the drug discovery process which is time consuming, inefficient, and most of the time, ineffective", 
+      "name": "Drug discovery", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 36, 
+      "group": "These startups aim to help create novel methods of diagnosing certain ailments", 
+      "name": "Diagnostics", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 37, 
+      "group": "These biotech firms create specific \"cures\" for specific diseases", 
+      "name": "Ailment specific cure", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 38, 
+      "group": "These firms aim to create tools other biotech firms, or research universities can use to aid them in the process of their research", 
+      "name": "Research development tools", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 39, 
+      "group": "blah", 
+      "name": "Mechanism understanding (AI/first principle)", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 40, 
+      "group": "blah", 
+      "name": "Physico chemical understanding (AI/first principle)", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 41, 
+      "group": "blah", 
+      "name": "Repurpose of existing drugs", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 42, 
+      "group": "blah", 
+      "name": "Generate novel drug candidates", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 43, 
+      "group": "blah", 
+      "name": "Validate drug candidates", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 44, 
+      "group": "blah", 
+      "name": "Proprietary devices", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 45, 
+      "group": "blah", 
+      "name": "Body chemicals test", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 46, 
+      "group": "blah", 
+      "name": "Existing \"health\" data for diagnostics", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 47, 
+      "group": "blah", 
+      "name": "DNA based", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 48, 
+      "group": "blah", 
+      "name": "Specific Drug/chemical/cell development", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 49, 
+      "group": "blah", 
+      "name": "Fertility solutions", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 50, 
+      "group": "blah", 
+      "name": "Kits to help with production of required material (i.e. cell lines, DNA/rNA sequence)", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 51, 
+      "group": "blah", 
+      "name": "Selling of actual material", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 52, 
+      "group": "blah", 
+      "name": "Market place for experiments", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 53, 
+      "group": "Energy storage refers to the problem that we have where we cannot transition to renewable sources of energy because of their intermittency", 
+      "name": "Energy Storage", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 54, 
+      "group": "Used resources are thrown away while they retain some potential usefulness", 
+      "name": "Recycling/Resource Management", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 55, 
+      "group": "Methods of measuring resource waste helps in saving resources and money because it makes us aware of what is being wasted", 
+      "name": "Metrics for energy usage/resource management", 
+      "size": 8.94427190999916
+    }, 
+    {
+      "id": 56, 
+      "group": "Novel technologies that help us either reduce resource waste or help us create more resources, renewably", 
+      "name": "Resource management technologies", 
+      "size": 8.94427190999916
     }
   ], 
   "links": [
@@ -223,6 +421,61 @@
       "value": 1.0
     }, 
     {
+      "source": 2, 
+      "target": 23, 
+      "value": 1.0
+    }, 
+    {
+      "source": 2, 
+      "target": 25, 
+      "value": 1.0
+    }, 
+    {
+      "source": 2, 
+      "target": 24, 
+      "value": 1.0
+    }, 
+    {
+      "source": 3, 
+      "target": 34, 
+      "value": 1.0
+    }, 
+    {
+      "source": 3, 
+      "target": 35, 
+      "value": 1.0
+    }, 
+    {
+      "source": 3, 
+      "target": 36, 
+      "value": 1.0
+    }, 
+    {
+      "source": 3, 
+      "target": 37, 
+      "value": 1.0
+    }, 
+    {
+      "source": 4, 
+      "target": 55, 
+      "value": 1.0
+    }, 
+    {
+      "source": 4, 
+      "target": 52, 
+      "value": 1.0
+    }, 
+    {
+      "source": 4, 
+      "target": 53, 
+      "value": 1.0
+    }, 
+    {
+      "source": 4, 
+      "target": 54, 
+      "value": 1.0
+    }, 
+    {
       "source": 14, 
       "target": 18, 
       "value": 1.0
@@ -250,6 +503,116 @@
     {
       "source": 16, 
       "target": 22, 
+      "value": 1.0
+    }, 
+    {
+      "source": 23, 
+      "target": 26, 
+      "value": 1.0
+    }, 
+    {
+      "source": 23, 
+      "target": 27, 
+      "value": 1.0
+    }, 
+    {
+      "source": 23, 
+      "target": 28, 
+      "value": 1.0
+    }, 
+    {
+      "source": 23, 
+      "target": 29, 
+      "value": 1.0
+    }, 
+    {
+      "source": 24, 
+      "target": 31, 
+      "value": 1.0
+    }, 
+    {
+      "source": 24, 
+      "target": 32, 
+      "value": 1.0
+    }, 
+    {
+      "source": 24, 
+      "target": 30, 
+      "value": 1.0
+    }, 
+    {
+      "source": 25, 
+      "target": 33, 
+      "value": 1.0
+    }, 
+    {
+      "source": 34, 
+      "target": 38, 
+      "value": 1.0
+    }, 
+    {
+      "source": 34, 
+      "target": 39, 
+      "value": 1.0
+    }, 
+    {
+      "source": 34, 
+      "target": 40, 
+      "value": 1.0
+    }, 
+    {
+      "source": 34, 
+      "target": 41, 
+      "value": 1.0
+    }, 
+    {
+      "source": 34, 
+      "target": 42, 
+      "value": 1.0
+    }, 
+    {
+      "source": 35, 
+      "target": 43, 
+      "value": 1.0
+    }, 
+    {
+      "source": 35, 
+      "target": 44, 
+      "value": 1.0
+    }, 
+    {
+      "source": 35, 
+      "target": 45, 
+      "value": 1.0
+    }, 
+    {
+      "source": 35, 
+      "target": 46, 
+      "value": 1.0
+    }, 
+    {
+      "source": 36, 
+      "target": 47, 
+      "value": 1.0
+    }, 
+    {
+      "source": 36, 
+      "target": 48, 
+      "value": 1.0
+    }, 
+    {
+      "source": 37, 
+      "target": 51, 
+      "value": 1.0
+    }, 
+    {
+      "source": 37, 
+      "target": 49, 
+      "value": 1.0
+    }, 
+    {
+      "source": 37, 
+      "target": 50, 
       "value": 1.0
     }
   ], 
