@@ -1,0 +1,1013 @@
+{
+  "id": "Startup", 
+  "children": [
+    {
+      "id": "Biotech"
+    }, 
+    {
+      "id": "Clean Tech"
+    }, 
+    {
+      "id": "Transportation"
+    }, 
+    {
+      "id": "Entertainment"
+    }, 
+    {
+      "id": "FINDHELP2"
+    }, 
+    {
+      "id": "Education"
+    }, 
+    {
+      "id": "Financial Tech"
+    }, 
+    {
+      "id": "Healthcare", 
+      "children": [
+        {
+          "id": "Doctors/hospitals", 
+          "children": [
+            {
+              "id": "Desire: to help patients", 
+              "children": [
+                {
+                  "id": "Painpoint: patient experience", 
+                  "children": [
+                    {
+                      "id": "Care Planning for patients", 
+                      "children": [
+                        {
+                          "id": "Rimidi"
+                        }, 
+                        {
+                          "id": "Caremerge"
+                        }, 
+                        {
+                          "id": "CareSync (closed)"
+                        }, 
+                        {
+                          "id": "Dbaza Health"
+                        }, 
+                        {
+                          "id": "Wellframe"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Readmissions", 
+                      "children": [
+                        {
+                          "id": "PositionHealth"
+                        }, 
+                        {
+                          "id": "CheckER"
+                        }, 
+                        {
+                          "id": "Jvion"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Feedback analysis from patient experience", 
+                      "children": [
+                        {
+                          "id": "NarrativeDX"
+                        }, 
+                        {
+                          "id": "AppliedVR"
+                        }, 
+                        {
+                          "id": "Bivarus"
+                        }, 
+                        {
+                          "id": "MedStatic"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: time spent on other duties", 
+                  "children": [
+                    {
+                      "id": "Hospital Communication", 
+                      "children": [
+                        {
+                          "id": "TigerText"
+                        }, 
+                        {
+                          "id": "Stitch"
+                        }, 
+                        {
+                          "id": "[m]pirik"
+                        }, 
+                        {
+                          "id": "DrFirst"
+                        }, 
+                        {
+                          "id": "Voalte"
+                        }, 
+                        {
+                          "id": "BeckonCall"
+                        }, 
+                        {
+                          "id": "PatientSafe solutions"
+                        }, 
+                        {
+                          "id": "CureAtr"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Practice Management", 
+                      "children": [
+                        {
+                          "id": "AugMedic"
+                        }, 
+                        {
+                          "id": "Qgenda"
+                        }, 
+                        {
+                          "id": "AdvancedMD"
+                        }, 
+                        {
+                          "id": "PokitDot"
+                        }, 
+                        {
+                          "id": "Practice Fusion"
+                        }, 
+                        {
+                          "id": "Yosko"
+                        }, 
+                        {
+                          "id": "ScheduleReady"
+                        }, 
+                        {
+                          "id": "Flatiron"
+                        }, 
+                        {
+                          "id": "MedCPU"
+                        }, 
+                        {
+                          "id": "CareCloud"
+                        }, 
+                        {
+                          "id": "Acuity"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Hospital Navigation", 
+                      "children": [
+                        {
+                          "id": "Connexient"
+                        }, 
+                        {
+                          "id": "Gozio Health"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: treating the patient", 
+                  "children": [
+                    {
+                      "id": "Surgery Aid", 
+                      "children": [
+                        {
+                          "id": "CMR cambridge medical robotics"
+                        }, 
+                        {
+                          "id": "TouchSurgery"
+                        }, 
+                        {
+                          "id": "OrthoSensor"
+                        }, 
+                        {
+                          "id": "Simulated Surgical Systems"
+                        }, 
+                        {
+                          "id": "Surgical Theater"
+                        }, 
+                        {
+                          "id": "GaussSurgical"
+                        }, 
+                        {
+                          "id": "Intellijoint Surgical"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Infection Control", 
+                      "children": [
+                        {
+                          "id": "Xenex"
+                        }, 
+                        {
+                          "id": "Altitude Medical"
+                        }, 
+                        {
+                          "id": "Hyginex"
+                        }, 
+                        {
+                          "id": "Hand in Scan"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Imaging Aid", 
+                      "children": [
+                        {
+                          "id": "Imagia AI"
+                        }, 
+                        {
+                          "id": "lifeIMAGE"
+                        }, 
+                        {
+                          "id": "Oncora Medical"
+                        }, 
+                        {
+                          "id": "Enlitic"
+                        }, 
+                        {
+                          "id": "Trice Medical"
+                        }, 
+                        {
+                          "id": "Sono Cine"
+                        }, 
+                        {
+                          "id": "HeartFlow"
+                        }, 
+                        {
+                          "id": "Butterfly Network"
+                        }, 
+                        {
+                          "id": "Sarterys"
+                        }, 
+                        {
+                          "id": "Eagleeye Med"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Diagnostics", 
+                      "children": [
+                        {
+                          "id": "Bluebee"
+                        }, 
+                        {
+                          "id": "Lumiata"
+                        }, 
+                        {
+                          "id": "Lunit"
+                        }, 
+                        {
+                          "id": "Freenome"
+                        }, 
+                        {
+                          "id": "Genalyte"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }, 
+            {
+              "id": "Desire: to make money", 
+              "children": [
+                {
+                  "id": "Painpiont: lowering costs", 
+                  "children": [
+                    {
+                      "id": "Hospital Inefficiency Management", 
+                      "children": [
+                        {
+                          "id": "Hindsait"
+                        }, 
+                        {
+                          "id": "V2 Solutions"
+                        }, 
+                        {
+                          "id": "LeanTaas"
+                        }, 
+                        {
+                          "id": "CloudMedx"
+                        }, 
+                        {
+                          "id": "Prognos"
+                        }, 
+                        {
+                          "id": "AbsolutData"
+                        }, 
+                        {
+                          "id": "Qventus"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Supply Management", 
+                      "children": [
+                        {
+                          "id": "Aethon"
+                        }, 
+                        {
+                          "id": "Lab Sensor Solutions"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "id": "Patients", 
+          "children": [
+            {
+              "id": "Desire: Stay Healthy", 
+              "children": [
+                {
+                  "id": "Painpoint: understanding the issue", 
+                  "children": [
+                    {
+                      "id": "Doctor Scheduling", 
+                      "children": [
+                        {
+                          "id": "CrediHealth (2013): a site to help you find a doctor type to treat an ailment you have, as well as appointment creator"
+                        }, 
+                        {
+                          "id": "Practo (2008): a site that helps you create an appointment with a doctor and helps sort all of the logistics necessary"
+                        }, 
+                        {
+                          "id": "MedHarbour (null): online consultation with a doctor using video and doctor appointment setup"
+                        }, 
+                        {
+                          "id": "DocTree (2012): online platform to find doctors"
+                        }, 
+                        {
+                          "id": "Lybrate (2013): online forum to consult with a doctor and set up an appointment"
+                        }, 
+                        {
+                          "id": "Healthians (2014): online platform to book a blood test and other clinical checkups"
+                        }, 
+                        {
+                          "id": "24xHealth (2013): online platform to schedule a doctor visit"
+                        }, 
+                        {
+                          "id": "Carbon"
+                        }, 
+                        {
+                          "id": "iCliniq (2010): online forum to consult with a doctor and set up an appointment"
+                        }, 
+                        {
+                          "id": "iClinicCare (2012): online forum to ask doctors questions, as well as a place to order lab tests"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Telemedicine", 
+                      "children": [
+                        {
+                          "id": "Spurce"
+                        }, 
+                        {
+                          "id": "DoctorOnDemand"
+                        }, 
+                        {
+                          "id": "Pager"
+                        }, 
+                        {
+                          "id": "HealthTap"
+                        }, 
+                        {
+                          "id": "HealthCareMagic (2008): online \"forum\" where you can ask general practitioners or specialized doctors a question regarding medical knowledge, symptoms, ailments"
+                        }, 
+                        {
+                          "id": "MDLive"
+                        }, 
+                        {
+                          "id": "SenseLy"
+                        }, 
+                        {
+                          "id": "Babylon"
+                        }, 
+                        {
+                          "id": "Call9"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: remedying the ailment (general solution)", 
+                  "children": [
+                    {
+                      "id": "Medication Management", 
+                      "children": [
+                        {
+                          "id": "Aira"
+                        }, 
+                        {
+                          "id": "Chrono Therapeutics"
+                        }, 
+                        {
+                          "id": "Cue"
+                        }, 
+                        {
+                          "id": "WellDoc"
+                        }, 
+                        {
+                          "id": "Pear Therapeutics"
+                        }, 
+                        {
+                          "id": "GlucoVista"
+                        }, 
+                        {
+                          "id": "Qardio"
+                        }, 
+                        {
+                          "id": "ThalmicLabs"
+                        }, 
+                        {
+                          "id": "MediSafe (null): personalized medicine taking platform for diabetes using sensors connected to iphone"
+                        }, 
+                        {
+                          "id": "Glooko"
+                        }, 
+                        {
+                          "id": "3Rings"
+                        }, 
+                        {
+                          "id": "AliveCor"
+                        }, 
+                        {
+                          "id": "JanaCare (2011): blood glucose monitoring using apps for diabetes monitor"
+                        }, 
+                        {
+                          "id": "Kinsa"
+                        }, 
+                        {
+                          "id": "Sano"
+                        }, 
+                        {
+                          "id": "Sweetch"
+                        }, 
+                        {
+                          "id": "InfoBionic"
+                        }, 
+                        {
+                          "id": "Angel"
+                        }, 
+                        {
+                          "id": "Whoop"
+                        }, 
+                        {
+                          "id": "Omada"
+                        }, 
+                        {
+                          "id": "Livongo"
+                        }, 
+                        {
+                          "id": "Farewell"
+                        }, 
+                        {
+                          "id": "AiCure"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Pharmacy Delivery", 
+                      "children": [
+                        {
+                          "id": "Capsule"
+                        }, 
+                        {
+                          "id": "Zipdrug"
+                        }, 
+                        {
+                          "id": "PillPack"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Medical Cannabis", 
+                      "children": [
+                        {
+                          "id": "Mettrum (2012): research and distribution of cannabis for medical applications"
+                        }, 
+                        {
+                          "id": "Tilray (2010): cannabis for medical applications "
+                        }, 
+                        {
+                          "id": "Meadow"
+                        }, 
+                        {
+                          "id": "Eaze"
+                        }, 
+                        {
+                          "id": "Tweed (2012): a producer and distributor of medical marijuana"
+                        }, 
+                        {
+                          "id": "Grassp"
+                        }, 
+                        {
+                          "id": "Ucann (2007): cannabis for medical applications (mixing and matching)"
+                        }, 
+                        {
+                          "id": "MariCann (2013): provides medical marijuana "
+                        }, 
+                        {
+                          "id": "CanopyGrowth (2014): cannabis for medical applications"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Continuation of Care", 
+                      "children": [
+                        {
+                          "id": "HomeTeam"
+                        }, 
+                        {
+                          "id": "Heal"
+                        }, 
+                        {
+                          "id": "LumiraDX"
+                        }, 
+                        {
+                          "id": "Honor"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: having to realize potential health ailments", 
+                  "children": [
+                    {
+                      "id": "Health Digitalization", 
+                      "children": [
+                        {
+                          "id": "eKinCare (2014): digitlization of health records as a wellness platform"
+                        }, 
+                        {
+                          "id": "PicnicHealth (null): digitization of health information and curation of all health records from doctors"
+                        }, 
+                        {
+                          "id": "HealthVerity (2014): aquiring/curating all healthcare data of a patient"
+                        }, 
+                        {
+                          "id": "Counsyl (null): genetic test for women to screen for at risk diseases (limited) and cancer"
+                        }, 
+                        {
+                          "id": "AllizHealth (2012): digitlization of health record, as well as health monitor, and doctor connection forum"
+                        }, 
+                        {
+                          "id": "Cloud9Psych (2014): behavioral health wellness record (using self reported data and biometrics)"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Patient Monitoring", 
+                      "children": [
+                        {
+                          "id": "MediBeacon"
+                        }, 
+                        {
+                          "id": "Sentrian"
+                        }, 
+                        {
+                          "id": "Ornim Medical"
+                        }, 
+                        {
+                          "id": "OptiScan"
+                        }, 
+                        {
+                          "id": "Glytec"
+                        }, 
+                        {
+                          "id": "Endotronix"
+                        }, 
+                        {
+                          "id": "EarlySense"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Assigned Doctor", 
+                      "children": [
+                        {
+                          "id": "NanoHealth (2014): health mintoring service by assigning a doctor to keep a check on users "
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: keeping general health", 
+                  "children": [
+                    {
+                      "id": "Vitamin Supplements/Pills/Creams/Makeup", 
+                      "children": [
+                        {
+                          "id": "Peppod"
+                        }, 
+                        {
+                          "id": "SimpleSmartScience"
+                        }, 
+                        {
+                          "id": "CherryWorks"
+                        }, 
+                        {
+                          "id": "SynergyChc (2010): curation of products ranging from suplements, to makeup, to creams to keep healthy"
+                        }, 
+                        {
+                          "id": "Phytopur"
+                        }, 
+                        {
+                          "id": "Mannatech (1994): curation of health products"
+                        }, 
+                        {
+                          "id": "Tespo"
+                        }, 
+                        {
+                          "id": "Cerebral Success"
+                        }, 
+                        {
+                          "id": "NootRobox"
+                        }, 
+                        {
+                          "id": "BuluBox"
+                        }, 
+                        {
+                          "id": "Rumble"
+                        }, 
+                        {
+                          "id": "Zenamins"
+                        }, 
+                        {
+                          "id": "Biophytic"
+                        }, 
+                        {
+                          "id": "Panacea Solutions"
+                        }, 
+                        {
+                          "id": "Nectar7"
+                        }, 
+                        {
+                          "id": "Elivar"
+                        }, 
+                        {
+                          "id": "SmartFish"
+                        }, 
+                        {
+                          "id": "NutraFol"
+                        }, 
+                        {
+                          "id": "Elsium Health"
+                        }, 
+                        {
+                          "id": "Ritual"
+                        }, 
+                        {
+                          "id": "Sevo Nutraceuticals"
+                        }, 
+                        {
+                          "id": "VitaFive"
+                        }, 
+                        {
+                          "id": "Vita Perk"
+                        }, 
+                        {
+                          "id": "MetaCan"
+                        }, 
+                        {
+                          "id": "Brainiac"
+                        }, 
+                        {
+                          "id": "Skoop"
+                        }, 
+                        {
+                          "id": "CRIK Nutrition"
+                        }, 
+                        {
+                          "id": "FRS Health Energy"
+                        }, 
+                        {
+                          "id": "Joint Juice"
+                        }, 
+                        {
+                          "id": "KalibrateV"
+                        }, 
+                        {
+                          "id": "Trovita"
+                        }, 
+                        {
+                          "id": "MultiplyLabs"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Brain Sensing", 
+                      "children": [
+                        {
+                          "id": "JanMedical"
+                        }, 
+                        {
+                          "id": "Thync"
+                        }, 
+                        {
+                          "id": "Muse"
+                        }, 
+                        {
+                          "id": "NeuroVigil"
+                        }, 
+                        {
+                          "id": "NeuroSk"
+                        }, 
+                        {
+                          "id": "yBrain"
+                        }, 
+                        {
+                          "id": "Halo"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Mental Health Apps", 
+                      "children": [
+                        {
+                          "id": "YogaDailyFitness: app to help with yoga for meditation purposes to keep mental health in check"
+                        }, 
+                        {
+                          "id": "Headspace: meditation app that has guided meditations for various use cases"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Sleep monitoring", 
+                      "children": [
+                        {
+                          "id": "Beddit: sleep monitoring for health by embedding a 3 cm by 5 cm slip onto bed"
+                        }, 
+                        {
+                          "id": "HelloSense: sleep monitoring for health by using a \"pill shaped device\" you put near your pillow"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Fitness Apps", 
+                      "children": [
+                        {
+                          "id": "PlateJoy (null): online web platform dedicated to creating curated \"planned meals\" to keep healthy"
+                        }, 
+                        {
+                          "id": "Runtastic: app that helps monitor running habits (time, distance, frequency)"
+                        }, 
+                        {
+                          "id": "YouAreYourOwnGym: app that helps with making your own gym routine to keep healthy"
+                        }, 
+                        {
+                          "id": "MyFitnessPal: health app for keeping diet in check"
+                        }, 
+                        {
+                          "id": "MyTrainerDasi: free health app that uses general body information to suggest \"health\" habits"
+                        }, 
+                        {
+                          "id": "Fooducate: nutrition app that features 250000 foods to compare nutritionally"
+                        }, 
+                        {
+                          "id": "StrongLifts5x5: app that helps you see what type of workout to follow"
+                        }, 
+                        {
+                          "id": "HomeWorkout: app that generates at home workouts to keep in health"
+                        }, 
+                        {
+                          "id": "LifeSum: takes in your age, weight, height, gender and other general details to help guide you how to improve your life food and exercise wise"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Fitness Wearable", 
+                      "children": [
+                        {
+                          "id": "OMSignal"
+                        }, 
+                        {
+                          "id": "Athos"
+                        }, 
+                        {
+                          "id": "Atlas"
+                        }, 
+                        {
+                          "id": "Motiv"
+                        }, 
+                        {
+                          "id": "Biobeats"
+                        }, 
+                        {
+                          "id": "Sensoria: fitness wearable for health monitoring"
+                        }, 
+                        {
+                          "id": "Moov"
+                        }, 
+                        {
+                          "id": "Misfit"
+                        }, 
+                        {
+                          "id": "Withings"
+                        }, 
+                        {
+                          "id": "Lark"
+                        }, 
+                        {
+                          "id": "Jawbone"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "General health information platform", 
+                      "children": [
+                        {
+                          "id": "Sepalika (2016): general health content platform on diet and lifestyle"
+                        }, 
+                        {
+                          "id": "Iodine (null): online webservice dedicated to educating the masses about what drugs actually do"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }, 
+            {
+              "id": "Annoyance: Cost", 
+              "children": [
+                {
+                  "id": "Painpoint: getting a good deal", 
+                  "children": [
+                    {
+                      "id": "Insurance Tech (comparing prices)", 
+                      "children": [
+                        {
+                          "id": "HealthJoy"
+                        }, 
+                        {
+                          "id": "Impact Helath"
+                        }, 
+                        {
+                          "id": "GoHealth: online portal for finding health insurance coverage"
+                        }, 
+                        {
+                          "id": "Zipari"
+                        }, 
+                        {
+                          "id": "HealthCompare: comparing health insurance coverage between many sites"
+                        }, 
+                        {
+                          "id": "HelathSherpa: comparing health insurance providers in a very easy to use UI/UX"
+                        }, 
+                        {
+                          "id": "Bright Health"
+                        }, 
+                        {
+                          "id": "Accolade"
+                        }, 
+                        {
+                          "id": "Clover Health"
+                        }, 
+                        {
+                          "id": "HealthSherpa"
+                        }, 
+                        {
+                          "id": "iCan: insurance provider by being the middle man of actual insurance companies"
+                        }, 
+                        {
+                          "id": "Zest Health"
+                        }, 
+                        {
+                          "id": "Stride Health: providing what the government does but at better convenience"
+                        }, 
+                        {
+                          "id": "Joany: helps with not only insurance and cost reduction, but also helps with all the other stresses involved with having a good health plan"
+                        }, 
+                        {
+                          "id": "Gravie: insurance for everything made simpler by doing all the backend logistics"
+                        }, 
+                        {
+                          "id": "PicWell"
+                        }, 
+                        {
+                          "id": "Oscar Health: health insurance with telemedicine consultations"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Insurance Tech (employer healthbenefits to employee)", 
+                      "children": [
+                        {
+                          "id": "CompassPHS"
+                        }, 
+                        {
+                          "id": "ConnectedBenefits"
+                        }, 
+                        {
+                          "id": "Empyrean"
+                        }, 
+                        {
+                          "id": "BenefitFocus"
+                        }, 
+                        {
+                          "id": "Liazon"
+                        }, 
+                        {
+                          "id": "Thomsons Online Benefits"
+                        }, 
+                        {
+                          "id": "HixMe: helps employers find healthplan for employees"
+                        }, 
+                        {
+                          "id": "Maxwell Health: helps employers manage employee health benefits"
+                        }, 
+                        {
+                          "id": "HealthFirst"
+                        }, 
+                        {
+                          "id": "PeopleKeep: helps save time, money and anxiety by making it easy for businesses to provide healthcare for employoees"
+                        }, 
+                        {
+                          "id": "Benefitter: health insurance service for big companies at a convenience"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: knowing what to do to make hospital bill cheaper", 
+                  "children": [
+                    {
+                      "id": "Medical Bill Hastles", 
+                      "children": [
+                        {
+                          "id": "ScrubPay"
+                        }, 
+                        {
+                          "id": "getBetter"
+                        }, 
+                        {
+                          "id": "RemedyLabs (folded)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "id": "Insurance Providers", 
+          "children": [
+            {
+              "id": "null for insurance"
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "id": "Productivity"
+    }, 
+    {
+      "id": "Security"
+    }, 
+    {
+      "id": "Manufacturing"
+    }, 
+    {
+      "id": "Agriculture", 
+      "children": [
+        {
+          "id": "Farmers", 
+          "children": [
+            {
+              "id": "Desire: make more money"
+            }, 
+            {
+              "id": "Desire: more convenience"
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "id": "Food/drinks"
+    }, 
+    {
+      "id": "Advertising"
+    }
+  ]
+}
