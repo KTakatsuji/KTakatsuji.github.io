@@ -2,25 +2,1528 @@
   "id": "Startup", 
   "children": [
     {
-      "id": "Biotech"
+      "id": "Clean Tech", 
+      "children": [
+        {
+          "id": "Government/Utilities", 
+          "children": [
+            {
+              "id": "Desire: energy/resource security", 
+              "children": [
+                {
+                  "id": "Painpoint: Water purification", 
+                  "children": [
+                    {
+                      "id": "Monitoring", 
+                      "children": [
+                        {
+                          "id": "ANDalyze"
+                        }, 
+                        {
+                          "id": "OptiEnz Sensors"
+                        }, 
+                        {
+                          "id": "Alvim Srl"
+                        }, 
+                        {
+                          "id": "Water Lens"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Purification", 
+                      "children": [
+                        {
+                          "id": "Waterwalla"
+                        }, 
+                        {
+                          "id": "Puralytics"
+                        }, 
+                        {
+                          "id": "Foila Water"
+                        }, 
+                        {
+                          "id": "Cerahelix"
+                        }, 
+                        {
+                          "id": "Integrated Algae Solutions"
+                        }, 
+                        {
+                          "id": "Drinkwell"
+                        }, 
+                        {
+                          "id": "Microvi Biotechnologies"
+                        }, 
+                        {
+                          "id": "Gradek Energy"
+                        }, 
+                        {
+                          "id": "Baswood"
+                        }, 
+                        {
+                          "id": "Pax Pure"
+                        }, 
+                        {
+                          "id": "Liquidity Nanotech"
+                        }, 
+                        {
+                          "id": "Emecfy"
+                        }, 
+                        {
+                          "id": "ArscenicVolt"
+                        }, 
+                        {
+                          "id": "BioGill"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: generating energy", 
+                  "children": [
+                    {
+                      "id": "Wind", 
+                      "children": [
+                        {
+                          "id": "United Wind Inc. "
+                        }, 
+                        {
+                          "id": "Commonwealth Bay"
+                        }, 
+                        {
+                          "id": "Accio Energy"
+                        }, 
+                        {
+                          "id": "Avant Garde Innovations"
+                        }, 
+                        {
+                          "id": "Pterofin"
+                        }, 
+                        {
+                          "id": "Airdash"
+                        }, 
+                        {
+                          "id": "Leviathan Wind Energizer"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Solar", 
+                      "children": [
+                        {
+                          "id": "Nippon Renewable Energy"
+                        }, 
+                        {
+                          "id": "1366 Technologies"
+                        }, 
+                        {
+                          "id": "Silicor Materials"
+                        }, 
+                        {
+                          "id": "Silicon Ranch Corporation"
+                        }, 
+                        {
+                          "id": "Brightsource Energy"
+                        }, 
+                        {
+                          "id": "Solo Power"
+                        }, 
+                        {
+                          "id": "Solar Reserve"
+                        }, 
+                        {
+                          "id": "Sunnova Energy Corp"
+                        }, 
+                        {
+                          "id": "Hindustan Powerprojects"
+                        }, 
+                        {
+                          "id": "AES Solar"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Wave", 
+                      "children": [
+                        {
+                          "id": "Eco Wave Power"
+                        }, 
+                        {
+                          "id": "Resolute Marine Energy"
+                        }, 
+                        {
+                          "id": "Ocean Power Technologies"
+                        }, 
+                        {
+                          "id": "AW Energy"
+                        }, 
+                        {
+                          "id": "SeaFaradays"
+                        }, 
+                        {
+                          "id": "Cor Power Ocean"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: recycling/waste recovery", 
+                  "children": [
+                    {
+                      "id": "Metal Recycling", 
+                      "children": [
+                        {
+                          "id": "Material Mix"
+                        }, 
+                        {
+                          "id": "Redwood Materials"
+                        }, 
+                        {
+                          "id": "ScrapGo"
+                        }, 
+                        {
+                          "id": "Scrap Connection"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Plastic Recycling", 
+                      "children": [
+                        {
+                          "id": "Bureo"
+                        }, 
+                        {
+                          "id": "Origin Material"
+                        }, 
+                        {
+                          "id": "Saperatec"
+                        }, 
+                        {
+                          "id": "Recycling Technologies"
+                        }, 
+                        {
+                          "id": "Pom Pom"
+                        }, 
+                        {
+                          "id": "Agilyx"
+                        }, 
+                        {
+                          "id": "Karma Recycling"
+                        }, 
+                        {
+                          "id": "Ioniqua"
+                        }, 
+                        {
+                          "id": "Polystyvert"
+                        }, 
+                        {
+                          "id": "Green Toys"
+                        }, 
+                        {
+                          "id": "Bioplastech"
+                        }, 
+                        {
+                          "id": "Biocellection"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: storing energy", 
+                  "children": [
+                    {
+                      "id": "Battery", 
+                      "children": [
+                        {
+                          "id": "ABB"
+                        }, 
+                        {
+                          "id": "Ambri "
+                        }, 
+                        {
+                          "id": "Aquion"
+                        }, 
+                        {
+                          "id": "AES Energy Storage"
+                        }, 
+                        {
+                          "id": "EOS"
+                        }, 
+                        {
+                          "id": "Seeo"
+                        }, 
+                        {
+                          "id": "A123"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Thermal", 
+                      "children": [
+                        {
+                          "id": "Axiom Energy"
+                        }, 
+                        {
+                          "id": "IceEnergy"
+                        }, 
+                        {
+                          "id": "NetEnergy"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Kinetic", 
+                      "children": [
+                        {
+                          "id": "Velkess"
+                        }, 
+                        {
+                          "id": "Amber Kinetics"
+                        }, 
+                        {
+                          "id": "Teraloop"
+                        }, 
+                        {
+                          "id": "Energiestro"
+                        }, 
+                        {
+                          "id": "OXTO Energy"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Compressed Air", 
+                      "children": [
+                        {
+                          "id": "ApexCAES"
+                        }, 
+                        {
+                          "id": "Hydrostor"
+                        }, 
+                        {
+                          "id": "LightSail"
+                        }, 
+                        {
+                          "id": "SustainX"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }, 
     {
-      "id": "Clean Tech"
-    }, 
-    {
-      "id": "Transportation"
+      "id": "Transportation", 
+      "children": [
+        {
+          "id": "Commuters", 
+          "children": [
+            {
+              "id": "Desire: Long distance commute", 
+              "children": [
+                {
+                  "id": "Painpoint: Convenience (long distance)", 
+                  "children": [
+                    {
+                      "id": "Fast Lane", 
+                      "children": [
+                        {
+                          "id": "Arrivo"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }, 
+            {
+              "id": "Desire: Urban Commuting", 
+              "children": [
+                {
+                  "id": "Painpoint: Convenience (urban/suburban commute)", 
+                  "children": [
+                    {
+                      "id": "Ride Hailing for Commute Transits", 
+                      "children": [
+                        {
+                          "id": "Uber"
+                        }, 
+                        {
+                          "id": "Taxify"
+                        }, 
+                        {
+                          "id": "Lyft"
+                        }, 
+                        {
+                          "id": "RidePal"
+                        }, 
+                        {
+                          "id": "LiftO"
+                        }, 
+                        {
+                          "id": "CityMapper"
+                        }, 
+                        {
+                          "id": "Chariot"
+                        }, 
+                        {
+                          "id": "Via"
+                        }, 
+                        {
+                          "id": "Shuttl"
+                        }, 
+                        {
+                          "id": "Grab"
+                        }, 
+                        {
+                          "id": "Gett"
+                        }, 
+                        {
+                          "id": "Blablaar"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Single Ride \"Vehicles\"", 
+                      "children": [
+                        {
+                          "id": "Zagster"
+                        }, 
+                        {
+                          "id": "GeoOrbital"
+                        }, 
+                        {
+                          "id": "Ofo"
+                        }, 
+                        {
+                          "id": "Cyclehop"
+                        }, 
+                        {
+                          "id": "Jump"
+                        }, 
+                        {
+                          "id": "Scoot"
+                        }, 
+                        {
+                          "id": "Mobike"
+                        }, 
+                        {
+                          "id": "onBikeShare"
+                        }, 
+                        {
+                          "id": "Lime"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "id": "Good Delivery", 
+          "children": [
+            {
+              "id": "Desire: delivery into space", 
+              "children": [
+                {
+                  "id": "Painpoint: cost of sending goods to space", 
+                  "children": [
+                    {
+                      "id": "Reusable Aircraft/Cheap Aircraft", 
+                      "children": [
+                        {
+                          "id": "SpaceX"
+                        }, 
+                        {
+                          "id": "BlueOrigin"
+                        }, 
+                        {
+                          "id": "The SpaceShip Company"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }, 
+            {
+              "id": "Desire: Cross Country Delivery", 
+              "children": [
+                {
+                  "id": "AI Trucks", 
+                  "children": [
+                    {
+                      "id": "Embark Trucks"
+                    }, 
+                    {
+                      "id": "Kodiak Robotics"
+                    }
+                  ]
+                }
+              ]
+            }, 
+            {
+              "id": "Desire: Local delivery of goods", 
+              "children": [
+                {
+                  "id": "Painpoint: convenience/quickness of good transport", 
+                  "children": [
+                    {
+                      "id": "AI Robots", 
+                      "children": [
+                        {
+                          "id": "Otto Motors"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Drones", 
+                      "children": [
+                        {
+                          "id": "Zipline"
+                        }, 
+                        {
+                          "id": "Matternet"
+                        }, 
+                        {
+                          "id": "Elroy Air"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }, 
     {
       "id": "Entertainment"
     }, 
     {
-      "id": "FINDHELP2"
+      "id": "Education", 
+      "children": [
+        {
+          "id": "Students", 
+          "children": [
+            {
+              "id": "Desire: To learn", 
+              "children": [
+                {
+                  "id": "Painpoint: Access to education", 
+                  "children": [
+                    {
+                      "id": "Online Learning", 
+                      "children": [
+                        {
+                          "id": "EverFi"
+                        }, 
+                        {
+                          "id": "HotChalk"
+                        }, 
+                        {
+                          "id": "Masterclass"
+                        }, 
+                        {
+                          "id": "Brainly"
+                        }, 
+                        {
+                          "id": "Udemy"
+                        }, 
+                        {
+                          "id": "BYJU's"
+                        }, 
+                        {
+                          "id": "Udacity"
+                        }, 
+                        {
+                          "id": "DesComplica"
+                        }, 
+                        {
+                          "id": "CreativeLive"
+                        }, 
+                        {
+                          "id": "Skillshare"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: parents don't know what to do for early development", 
+                  "children": [
+                    {
+                      "id": "Early Child Education", 
+                      "children": [
+                        {
+                          "id": "Speakaboos"
+                        }, 
+                        {
+                          "id": "Tinybop"
+                        }, 
+                        {
+                          "id": "DreamBox"
+                        }, 
+                        {
+                          "id": "Osmo"
+                        }, 
+                        {
+                          "id": "GoNoodle"
+                        }, 
+                        {
+                          "id": "Fingerprint"
+                        }, 
+                        {
+                          "id": "NeoBear"
+                        }, 
+                        {
+                          "id": "Kidaptive"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }, 
+            {
+              "id": "Desire: To get into college", 
+              "children": [
+                {
+                  "id": "Painpoint: Doing well on standard exams", 
+                  "children": [
+                    {
+                      "id": "Test Prep", 
+                      "children": [
+                        {
+                          "id": "Test Innovators"
+                        }, 
+                        {
+                          "id": "Mindprint"
+                        }, 
+                        {
+                          "id": "Ready4"
+                        }, 
+                        {
+                          "id": "Toppr"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: Doing well in school", 
+                  "children": [
+                    {
+                      "id": "Painpoint: access to general education", 
+                      "children": [
+                        {
+                          "id": "Khan Academy"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "id": "NextGenSchools", 
+          "children": [
+            {
+              "id": "Knowre"
+            }, 
+            {
+              "id": "Bridge"
+            }, 
+            {
+              "id": "Quad Learning"
+            }, 
+            {
+              "id": "Alt School"
+            }, 
+            {
+              "id": "Cue Math"
+            }
+          ]
+        }, 
+        {
+          "id": "Workforce/Corporate", 
+          "children": [
+            {
+              "id": "Desire: Want good talent", 
+              "children": [
+                {
+                  "id": "Painpoint: Preparation of new hire", 
+                  "children": [
+                    {
+                      "id": "Full Bridge"
+                    }, 
+                    {
+                      "id": "General Assembly"
+                    }, 
+                    {
+                      "id": "Open Sesame"
+                    }, 
+                    {
+                      "id": "EDU Pristine"
+                    }, 
+                    {
+                      "id": "Bloom Board"
+                    }, 
+                    {
+                      "id": "Simpli Learn"
+                    }, 
+                    {
+                      "id": "Grobo"
+                    }, 
+                    {
+                      "id": "Axonify"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "id": "Teachers"
+        }
+      ]
     }, 
     {
-      "id": "Education"
-    }, 
-    {
-      "id": "Financial Tech"
+      "id": "Financial Tech", 
+      "children": [
+        {
+          "id": "Personal Finance", 
+          "children": [
+            {
+              "id": "Financial security", 
+              "children": [
+                {
+                  "id": "Painpoint: Need capital ", 
+                  "children": [
+                    {
+                      "id": "General Lending", 
+                      "children": [
+                        {
+                          "id": "Kreditech"
+                        }, 
+                        {
+                          "id": "Auxmoney"
+                        }, 
+                        {
+                          "id": "TrueAccord"
+                        }, 
+                        {
+                          "id": "Orchard"
+                        }, 
+                        {
+                          "id": "WeLab"
+                        }, 
+                        {
+                          "id": "Lendup"
+                        }, 
+                        {
+                          "id": "Indifi"
+                        }, 
+                        {
+                          "id": "Lu"
+                        }, 
+                        {
+                          "id": "Jd"
+                        }, 
+                        {
+                          "id": "Finrise"
+                        }, 
+                        {
+                          "id": "Oportrun"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Personal Lending", 
+                      "children": [
+                        {
+                          "id": "Activehours"
+                        }, 
+                        {
+                          "id": "SoFi"
+                        }, 
+                        {
+                          "id": "Upgrade"
+                        }, 
+                        {
+                          "id": "Zest"
+                        }, 
+                        {
+                          "id": "Affirm"
+                        }, 
+                        {
+                          "id": "ppdai"
+                        }, 
+                        {
+                          "id": "Smava"
+                        }, 
+                        {
+                          "id": "Greensky"
+                        }, 
+                        {
+                          "id": "Earnest"
+                        }, 
+                        {
+                          "id": "SocietyOne"
+                        }, 
+                        {
+                          "id": "Creditas"
+                        }, 
+                        {
+                          "id": "FinanceIt"
+                        }, 
+                        {
+                          "id": "Zopa"
+                        }, 
+                        {
+                          "id": "AutoGravity"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Mortgage Lending", 
+                      "children": [
+                        {
+                          "id": "Roostify"
+                        }, 
+                        {
+                          "id": "Lending Home"
+                        }, 
+                        {
+                          "id": "Better Mortgage"
+                        }, 
+                        {
+                          "id": "Habito"
+                        }, 
+                        {
+                          "id": "Blend"
+                        }, 
+                        {
+                          "id": "Lendinvest"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: Individual Insurance", 
+                  "children": [
+                    {
+                      "id": "Insurance Services", 
+                      "children": [
+                        {
+                          "id": "Policy Genius"
+                        }, 
+                        {
+                          "id": "Ethic"
+                        }, 
+                        {
+                          "id": "Shift Technology"
+                        }, 
+                        {
+                          "id": "Bob Insurance"
+                        }, 
+                        {
+                          "id": "Metromile"
+                        }, 
+                        {
+                          "id": "Inspool"
+                        }, 
+                        {
+                          "id": "Next"
+                        }, 
+                        {
+                          "id": "Easypolicy"
+                        }, 
+                        {
+                          "id": "World Cover"
+                        }, 
+                        {
+                          "id": "Peer Cover"
+                        }, 
+                        {
+                          "id": "Bima"
+                        }, 
+                        {
+                          "id": "Clover"
+                        }, 
+                        {
+                          "id": "Sure"
+                        }, 
+                        {
+                          "id": "Pablow"
+                        }, 
+                        {
+                          "id": "Oscar"
+                        }, 
+                        {
+                          "id": "Abaris"
+                        }, 
+                        {
+                          "id": "PB"
+                        }, 
+                        {
+                          "id": "Knip"
+                        }, 
+                        {
+                          "id": "Sensei"
+                        }, 
+                        {
+                          "id": "Fadata"
+                        }, 
+                        {
+                          "id": "Harbor"
+                        }, 
+                        {
+                          "id": "Ebroker"
+                        }, 
+                        {
+                          "id": "Lapetus"
+                        }, 
+                        {
+                          "id": "Gusto"
+                        }, 
+                        {
+                          "id": "Simesurance"
+                        }, 
+                        {
+                          "id": "Compara"
+                        }, 
+                        {
+                          "id": "Quilt"
+                        }, 
+                        {
+                          "id": "Lemonade"
+                        }, 
+                        {
+                          "id": "Trov"
+                        }, 
+                        {
+                          "id": "Namely"
+                        }, 
+                        {
+                          "id": "Cyence"
+                        }, 
+                        {
+                          "id": "Figo"
+                        }, 
+                        {
+                          "id": "Ladder"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: Capital savings/investments", 
+                  "children": [
+                    {
+                      "id": "Investing", 
+                      "children": [
+                        {
+                          "id": "DriveWealth"
+                        }, 
+                        {
+                          "id": "Folio"
+                        }, 
+                        {
+                          "id": "Sogotrade"
+                        }, 
+                        {
+                          "id": "Indexa Capital"
+                        }, 
+                        {
+                          "id": "TastyWorks"
+                        }, 
+                        {
+                          "id": "Street Context"
+                        }, 
+                        {
+                          "id": "Neighborly"
+                        }, 
+                        {
+                          "id": "Robust Wealth"
+                        }, 
+                        {
+                          "id": "Blooom"
+                        }, 
+                        {
+                          "id": "Alkanza"
+                        }, 
+                        {
+                          "id": "Rubicoin"
+                        }, 
+                        {
+                          "id": "Theo"
+                        }, 
+                        {
+                          "id": "WealthBr"
+                        }, 
+                        {
+                          "id": "Property Partner"
+                        }, 
+                        {
+                          "id": "Cadre"
+                        }, 
+                        {
+                          "id": "Robinhood"
+                        }, 
+                        {
+                          "id": "Acorns"
+                        }, 
+                        {
+                          "id": "RealityShares"
+                        }, 
+                        {
+                          "id": "Ellevest"
+                        }, 
+                        {
+                          "id": "MoneyFarm"
+                        }, 
+                        {
+                          "id": "Risbeevie"
+                        }, 
+                        {
+                          "id": "Raisin"
+                        }, 
+                        {
+                          "id": "Betterment"
+                        }, 
+                        {
+                          "id": "Trumid"
+                        }, 
+                        {
+                          "id": "Aspiration"
+                        }, 
+                        {
+                          "id": "Reorg Research"
+                        }, 
+                        {
+                          "id": "Stash"
+                        }, 
+                        {
+                          "id": "Artivest"
+                        }, 
+                        {
+                          "id": "Nutmeg"
+                        }, 
+                        {
+                          "id": "WealthFront"
+                        }, 
+                        {
+                          "id": "WealthNavi"
+                        }, 
+                        {
+                          "id": "Personal Capital"
+                        }, 
+                        {
+                          "id": "Roofstock"
+                        }, 
+                        {
+                          "id": "WealthSimple"
+                        }, 
+                        {
+                          "id": "Point"
+                        }, 
+                        {
+                          "id": "PeerStreet"
+                        }, 
+                        {
+                          "id": "Kensho"
+                        }, 
+                        {
+                          "id": "eShares"
+                        }, 
+                        {
+                          "id": "Quantopian"
+                        }, 
+                        {
+                          "id": "Vaamo"
+                        }, 
+                        {
+                          "id": "Feex"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Wealth Management/Personal Finance", 
+                      "children": [
+                        {
+                          "id": "Even"
+                        }, 
+                        {
+                          "id": "Digit"
+                        }, 
+                        {
+                          "id": "Tally"
+                        }, 
+                        {
+                          "id": "MoneyTree"
+                        }, 
+                        {
+                          "id": "Propel"
+                        }, 
+                        {
+                          "id": "Penny"
+                        }, 
+                        {
+                          "id": "Albert"
+                        }, 
+                        {
+                          "id": "Monzo"
+                        }, 
+                        {
+                          "id": "ClearTax"
+                        }, 
+                        {
+                          "id": "Guideline"
+                        }, 
+                        {
+                          "id": "NerdWallet"
+                        }, 
+                        {
+                          "id": "Pariti"
+                        }, 
+                        {
+                          "id": "NuBank"
+                        }, 
+                        {
+                          "id": "Atom"
+                        }, 
+                        {
+                          "id": "Cheddar up"
+                        }, 
+                        {
+                          "id": "Tink"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "id": "Merchants/Project Owners", 
+          "children": [
+            {
+              "id": "Desire: Successful Business/Project", 
+              "children": [
+                {
+                  "id": "Painpoint: need capital (merchant)", 
+                  "children": [
+                    {
+                      "id": "CrowdFunding", 
+                      "children": [
+                        {
+                          "id": "CrowdCube"
+                        }, 
+                        {
+                          "id": "Kickstarter"
+                        }, 
+                        {
+                          "id": "Seedrs"
+                        }, 
+                        {
+                          "id": "Patreon"
+                        }, 
+                        {
+                          "id": "Indiegogo"
+                        }, 
+                        {
+                          "id": "CircleUp"
+                        }, 
+                        {
+                          "id": "GofundMe"
+                        }, 
+                        {
+                          "id": "AngelList"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Business Lending", 
+                      "children": [
+                        {
+                          "id": "Funding Societies"
+                        }, 
+                        {
+                          "id": "Kabbage"
+                        }, 
+                        {
+                          "id": "LendingKart"
+                        }, 
+                        {
+                          "id": "C2FO"
+                        }, 
+                        {
+                          "id": "CapitalFloat"
+                        }, 
+                        {
+                          "id": "Funding Circle"
+                        }, 
+                        {
+                          "id": "BlueVine"
+                        }, 
+                        {
+                          "id": "Behalf"
+                        }, 
+                        {
+                          "id": "Prospa"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: financial interaction with customer/employee", 
+                  "children": [
+                    {
+                      "id": "Billing Automation", 
+                      "children": [
+                        {
+                          "id": "Boku"
+                        }, 
+                        {
+                          "id": "Fortumo"
+                        }, 
+                        {
+                          "id": "Judo"
+                        }, 
+                        {
+                          "id": "PaySimple"
+                        }, 
+                        {
+                          "id": "Aria"
+                        }, 
+                        {
+                          "id": "Danal"
+                        }, 
+                        {
+                          "id": "PayVeris"
+                        }, 
+                        {
+                          "id": "Vindicia"
+                        }, 
+                        {
+                          "id": "nvoicepay"
+                        }, 
+                        {
+                          "id": "iVinciHealth"
+                        }, 
+                        {
+                          "id": "myCheck"
+                        }, 
+                        {
+                          "id": "Zuora"
+                        }, 
+                        {
+                          "id": "Tirpalti"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Point of Sale Payment", 
+                      "children": [
+                        {
+                          "id": "PayRange"
+                        }, 
+                        {
+                          "id": "Square"
+                        }, 
+                        {
+                          "id": "Payfirma"
+                        }, 
+                        {
+                          "id": "Clip"
+                        }, 
+                        {
+                          "id": "Eze Tap"
+                        }, 
+                        {
+                          "id": "Shopkeep"
+                        }, 
+                        {
+                          "id": "Coiney"
+                        }, 
+                        {
+                          "id": "Apriva"
+                        }, 
+                        {
+                          "id": "Lightspeed"
+                        }, 
+                        {
+                          "id": "Revel Systems"
+                        }, 
+                        {
+                          "id": "Flint"
+                        }, 
+                        {
+                          "id": "Poynt"
+                        }, 
+                        {
+                          "id": "iZettle"
+                        }, 
+                        {
+                          "id": "Sum Up"
+                        }, 
+                        {
+                          "id": "Lavu"
+                        }, 
+                        {
+                          "id": "Payleven"
+                        }, 
+                        {
+                          "id": "CardConnect"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Online Payment Service", 
+                      "children": [
+                        {
+                          "id": "Flywire"
+                        }, 
+                        {
+                          "id": "Yapstone"
+                        }, 
+                        {
+                          "id": "Adyen"
+                        }, 
+                        {
+                          "id": "Trustly"
+                        }, 
+                        {
+                          "id": "GoCardless"
+                        }, 
+                        {
+                          "id": "Dwolla"
+                        }, 
+                        {
+                          "id": "Stripe"
+                        }, 
+                        {
+                          "id": "Omise"
+                        }, 
+                        {
+                          "id": "Exco"
+                        }, 
+                        {
+                          "id": "WePay"
+                        }, 
+                        {
+                          "id": "SlimPay"
+                        }, 
+                        {
+                          "id": "Paymill"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: capital safety", 
+                  "children": [
+                    {
+                      "id": "null? Insurance for merchants"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "id": "Hedgefunds", 
+          "children": [
+            {
+              "id": "Desire: Money ROI", 
+              "children": [
+                {
+                  "id": "Painpoint: Getting good data as investment indicators", 
+                  "children": [
+                    {
+                      "id": "Web/app/social media data", 
+                      "children": [
+                        {
+                          "id": "7Park"
+                        }, 
+                        {
+                          "id": "Selerity"
+                        }, 
+                        {
+                          "id": "Dataminr"
+                        }, 
+                        {
+                          "id": "App Annie"
+                        }, 
+                        {
+                          "id": "Yipit Data"
+                        }, 
+                        {
+                          "id": "DataSift"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Satellite Data", 
+                      "children": [
+                        {
+                          "id": "Urthecast"
+                        }, 
+                        {
+                          "id": "Planet Labs"
+                        }, 
+                        {
+                          "id": "Windward"
+                        }, 
+                        {
+                          "id": "Spire"
+                        }, 
+                        {
+                          "id": "RS metrics"
+                        }, 
+                        {
+                          "id": "Orbital Insight"
+                        }, 
+                        {
+                          "id": "Ursa"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Credit Card Transactions", 
+                      "children": [
+                        {
+                          "id": "Ynext Data"
+                        }, 
+                        {
+                          "id": "Envestnet Yodlee"
+                        }, 
+                        {
+                          "id": "Second Measure"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Local Prices", 
+                      "children": [
+                        {
+                          "id": "Price Stats"
+                        }, 
+                        {
+                          "id": "Premise"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Weather Data", 
+                      "children": [
+                        {
+                          "id": "Aclima"
+                        }, 
+                        {
+                          "id": "UnderStory"
+                        }, 
+                        {
+                          "id": "The climate Corporation"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Location/Foot Traffic Data", 
+                      "children": [
+                        {
+                          "id": "Placed"
+                        }, 
+                        {
+                          "id": "Placemeter"
+                        }, 
+                        {
+                          "id": "Foursquare"
+                        }, 
+                        {
+                          "id": "Street Light Data"
+                        }, 
+                        {
+                          "id": "Airsage"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: Analyzing data well", 
+                  "children": [
+                    {
+                      "id": "Robo Advisor", 
+                      "children": [
+                        {
+                          "id": "Quantifeed"
+                        }, 
+                        {
+                          "id": "Fount"
+                        }, 
+                        {
+                          "id": "AdvisorEngine"
+                        }, 
+                        {
+                          "id": "Third Financial"
+                        }, 
+                        {
+                          "id": "Liquid"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Alternative AI tech"
+                    }, 
+                    {
+                      "id": "Investing Tools", 
+                      "children": [
+                        {
+                          "id": "Lmrkts"
+                        }, 
+                        {
+                          "id": "OpenGamma"
+                        }, 
+                        {
+                          "id": "Harvest"
+                        }, 
+                        {
+                          "id": "Algomi"
+                        }, 
+                        {
+                          "id": "Canalyst"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }, 
     {
       "id": "Healthcare", 
@@ -994,20 +2497,970 @@
           "id": "Farmers", 
           "children": [
             {
-              "id": "Desire: make more money"
+              "id": "Desire: make more money (farmers)", 
+              "children": [
+                {
+                  "id": "Painpoint: selling at appropriate prices", 
+                  "children": [
+                    {
+                      "id": "Free Market", 
+                      "children": [
+                        {
+                          "id": "AgroStar"
+                        }, 
+                        {
+                          "id": "Agriconomie"
+                        }, 
+                        {
+                          "id": "Aggrigator"
+                        }, 
+                        {
+                          "id": "Yagro"
+                        }, 
+                        {
+                          "id": "EMB"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: not knowing how to optimize farming", 
+                  "children": [
+                    {
+                      "id": "Plant Data Analysis", 
+                      "children": [
+                        {
+                          "id": "Benson Hill Biosystems"
+                        }, 
+                        {
+                          "id": "Agronostico"
+                        }, 
+                        {
+                          "id": "CropMetrics"
+                        }, 
+                        {
+                          "id": "CropZilla"
+                        }, 
+                        {
+                          "id": "Farmers Business Network"
+                        }, 
+                        {
+                          "id": "Cibo"
+                        }, 
+                        {
+                          "id": "Trace Genomics"
+                        }, 
+                        {
+                          "id": "Strider"
+                        }, 
+                        {
+                          "id": "GeoVisual"
+                        }, 
+                        {
+                          "id": "Observe"
+                        }, 
+                        {
+                          "id": "Agralogics"
+                        }, 
+                        {
+                          "id": "Agrible"
+                        }, 
+                        {
+                          "id": "FluroSat"
+                        }, 
+                        {
+                          "id": "Bovcontrol"
+                        }, 
+                        {
+                          "id": "ec2ce"
+                        }, 
+                        {
+                          "id": "Prospera"
+                        }, 
+                        {
+                          "id": "MyAgData"
+                        }, 
+                        {
+                          "id": "aWhere"
+                        }, 
+                        {
+                          "id": "Gamaya"
+                        }, 
+                        {
+                          "id": "Premier Crop systems"
+                        }, 
+                        {
+                          "id": "AdaptN"
+                        }, 
+                        {
+                          "id": "Agrilyst"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Animal Data Analysis", 
+                      "children": [
+                        {
+                          "id": "Moocal"
+                        }, 
+                        {
+                          "id": "Cowlar"
+                        }, 
+                        {
+                          "id": "Advanced Animal Diagnostics"
+                        }, 
+                        {
+                          "id": "Connecterra"
+                        }, 
+                        {
+                          "id": "TL Biolabs"
+                        }, 
+                        {
+                          "id": "Stellapps"
+                        }, 
+                        {
+                          "id": "Farmnote"
+                        }, 
+                        {
+                          "id": "Mastiline"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }, 
             {
-              "id": "Desire: more convenience"
+              "id": "Miscellaneous/new farming", 
+              "children": [
+                {
+                  "id": "Next Gen Farming", 
+                  "children": [
+                    {
+                      "id": "Freight Farms"
+                    }, 
+                    {
+                      "id": "Bright Farms"
+                    }, 
+                    {
+                      "id": "Garden sense Farms"
+                    }, 
+                    {
+                      "id": "Bowery"
+                    }, 
+                    {
+                      "id": "Aero Farms"
+                    }, 
+                    {
+                      "id": "Alesca Life"
+                    }, 
+                    {
+                      "id": "Fresh Box"
+                    }, 
+                    {
+                      "id": "Gotam Greens"
+                    }
+                  ]
+                }
+              ]
+            }, 
+            {
+              "id": "Desire: more convenience (farmers)", 
+              "children": [
+                {
+                  "id": "Paintpoint: having to manually check for plant health", 
+                  "children": [
+                    {
+                      "id": "Farm diagnostics (sensors)", 
+                      "children": [
+                        {
+                          "id": "Amber"
+                        }, 
+                        {
+                          "id": "MotorLeaf"
+                        }, 
+                        {
+                          "id": "Teralytics"
+                        }, 
+                        {
+                          "id": "Sencrop"
+                        }, 
+                        {
+                          "id": "Farmobile"
+                        }, 
+                        {
+                          "id": "Saturas"
+                        }, 
+                        {
+                          "id": "Spensa"
+                        }, 
+                        {
+                          "id": "Grownetics"
+                        }, 
+                        {
+                          "id": "Centaur"
+                        }, 
+                        {
+                          "id": "Semios"
+                        }, 
+                        {
+                          "id": "Flux"
+                        }, 
+                        {
+                          "id": "Smart Yields"
+                        }, 
+                        {
+                          "id": "Arable"
+                        }, 
+                        {
+                          "id": "Phytec"
+                        }, 
+                        {
+                          "id": "FieldIn"
+                        }, 
+                        {
+                          "id": "Pycno"
+                        }, 
+                        {
+                          "id": "GardenSpace"
+                        }, 
+                        {
+                          "id": "Grassometer"
+                        }, 
+                        {
+                          "id": "FarmersEdge"
+                        }, 
+                        {
+                          "id": "Slantrange"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: having to tend to the plants", 
+                  "children": [
+                    {
+                      "id": "Farm management", 
+                      "children": [
+                        {
+                          "id": "Trecker"
+                        }, 
+                        {
+                          "id": "Farmdok"
+                        }, 
+                        {
+                          "id": "Agrivi"
+                        }, 
+                        {
+                          "id": "Dropin"
+                        }, 
+                        {
+                          "id": "AgriWebb"
+                        }, 
+                        {
+                          "id": "ScoutPro"
+                        }, 
+                        {
+                          "id": "Aegro"
+                        }, 
+                        {
+                          "id": "inFarm"
+                        }, 
+                        {
+                          "id": "Granular"
+                        }, 
+                        {
+                          "id": "Conservis"
+                        }, 
+                        {
+                          "id": "Pickitrace"
+                        }, 
+                        {
+                          "id": "LandMapp"
+                        }, 
+                        {
+                          "id": "Farmlogs"
+                        }, 
+                        {
+                          "id": "Agworld"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Farm automation (smart irrigation)", 
+                      "children": [
+                        {
+                          "id": "Sprinkl"
+                        }, 
+                        {
+                          "id": "Cropx"
+                        }, 
+                        {
+                          "id": "Hortau Simplified irrigation"
+                        }, 
+                        {
+                          "id": "Flowius"
+                        }, 
+                        {
+                          "id": "PowWow"
+                        }, 
+                        {
+                          "id": "AquaSpy"
+                        }, 
+                        {
+                          "id": "Tevatronic 3D irrigatio"
+                        }, 
+                        {
+                          "id": "Livn"
+                        }, 
+                        {
+                          "id": "HydroPoint"
+                        }, 
+                        {
+                          "id": "Edyn"
+                        }, 
+                        {
+                          "id": "Smart Farm"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Farm automation (robots)", 
+                      "children": [
+                        {
+                          "id": "Harvest Croo Robotics"
+                        }, 
+                        {
+                          "id": "BlueRiver"
+                        }, 
+                        {
+                          "id": "Farmbot"
+                        }, 
+                        {
+                          "id": "Raptor Maps"
+                        }, 
+                        {
+                          "id": "Mavrx"
+                        }, 
+                        {
+                          "id": "SkySquirrel"
+                        }, 
+                        {
+                          "id": "Abundant Robotics"
+                        }, 
+                        {
+                          "id": "Resson"
+                        }, 
+                        {
+                          "id": "LeadingEdge Technologies"
+                        }, 
+                        {
+                          "id": "TerrAvion"
+                        }, 
+                        {
+                          "id": "Skycision"
+                        }, 
+                        {
+                          "id": "Airwood"
+                        }, 
+                        {
+                          "id": "Ceres Imaging"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
       ]
     }, 
     {
-      "id": "Food/drinks"
+      "id": "Food/drinks", 
+      "children": [
+        {
+          "id": "Everyday Consumer", 
+          "children": [
+            {
+              "id": "Desire: a food experience", 
+              "children": [
+                {
+                  "id": "Painpoint: not knowing what to do", 
+                  "children": [
+                    {
+                      "id": "Chef On Demand", 
+                      "children": [
+                        {
+                          "id": "Feastly"
+                        }, 
+                        {
+                          "id": "Kitchen Surfing"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Prepared Groceries", 
+                      "children": [
+                        {
+                          "id": "Blue Apron "
+                        }, 
+                        {
+                          "id": "Forage"
+                        }, 
+                        {
+                          "id": "Home Chef"
+                        }, 
+                        {
+                          "id": "Plated"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }, 
+            {
+              "id": "Desire: a \"good\" meal", 
+              "children": [
+                {
+                  "id": "Food Delivery", 
+                  "children": [
+                    {
+                      "id": "Orderup"
+                    }, 
+                    {
+                      "id": "Peach"
+                    }, 
+                    {
+                      "id": "Food Junky"
+                    }, 
+                    {
+                      "id": "Eat Club"
+                    }, 
+                    {
+                      "id": "Chewse"
+                    }, 
+                    {
+                      "id": "Grubhub"
+                    }, 
+                    {
+                      "id": "Zesty"
+                    }, 
+                    {
+                      "id": "Doordash"
+                    }, 
+                    {
+                      "id": "Postmates"
+                    }, 
+                    {
+                      "id": "EatStreet"
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Meal Replacement", 
+                  "children": [
+                    {
+                      "id": "Ambronite"
+                    }, 
+                    {
+                      "id": "Soylent"
+                    }, 
+                    {
+                      "id": "Ample"
+                    }, 
+                    {
+                      "id": "Kuma"
+                    }, 
+                    {
+                      "id": "MosaicNutrition"
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: Meal preparation is inconvenient", 
+                  "children": [
+                    {
+                      "id": "Grocery Delivery", 
+                      "children": [
+                        {
+                          "id": "Fresh Nation"
+                        }, 
+                        {
+                          "id": "Door to door organics"
+                        }, 
+                        {
+                          "id": "Farmigo"
+                        }, 
+                        {
+                          "id": "Relay foods"
+                        }, 
+                        {
+                          "id": "Good eggs"
+                        }, 
+                        {
+                          "id": "Grub Market"
+                        }, 
+                        {
+                          "id": "Fresh Direct"
+                        }, 
+                        {
+                          "id": "Instacart"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "id": "Restauraunt", 
+          "children": [
+            {
+              "id": "Desire: run a successful restauraunt", 
+              "children": [
+                {
+                  "id": "Painpoint: handling food stuff", 
+                  "children": [
+                    {
+                      "id": "Inventory Management", 
+                      "children": [
+                        {
+                          "id": "Ordermentum"
+                        }, 
+                        {
+                          "id": "Meal Ticket"
+                        }, 
+                        {
+                          "id": "PlanetTable"
+                        }, 
+                        {
+                          "id": "TrakBar"
+                        }, 
+                        {
+                          "id": "Orderly"
+                        }, 
+                        {
+                          "id": "SimpleOrder"
+                        }, 
+                        {
+                          "id": "Bevspot"
+                        }, 
+                        {
+                          "id": "Nix86"
+                        }, 
+                        {
+                          "id": "eBev"
+                        }, 
+                        {
+                          "id": "BlueCart"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Food waste management", 
+                      "children": [
+                        {
+                          "id": "Spoiler Alert"
+                        }, 
+                        {
+                          "id": "MintScraps"
+                        }, 
+                        {
+                          "id": "Copia"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: handling staff/customer", 
+                  "children": [
+                    {
+                      "id": "Marketing for restauraunts", 
+                      "children": [
+                        {
+                          "id": "BenBria"
+                        }, 
+                        {
+                          "id": "ReviewTrackers"
+                        }, 
+                        {
+                          "id": "Venga"
+                        }, 
+                        {
+                          "id": "ZipScene"
+                        }, 
+                        {
+                          "id": "Plexure"
+                        }, 
+                        {
+                          "id": "BentoBox"
+                        }, 
+                        {
+                          "id": "Hostme"
+                        }, 
+                        {
+                          "id": "AppSmyth"
+                        }, 
+                        {
+                          "id": "Tenzo"
+                        }, 
+                        {
+                          "id": "Loop"
+                        }, 
+                        {
+                          "id": "TableHero"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Customer Satisfaction", 
+                      "children": [
+                        {
+                          "id": "Mogi"
+                        }, 
+                        {
+                          "id": "Loupe"
+                        }, 
+                        {
+                          "id": "Spendgo"
+                        }, 
+                        {
+                          "id": "ZenReach"
+                        }, 
+                        {
+                          "id": "LevelUp"
+                        }, 
+                        {
+                          "id": "Servy"
+                        }, 
+                        {
+                          "id": "Purple"
+                        }, 
+                        {
+                          "id": "Doblet"
+                        }, 
+                        {
+                          "id": "Zon"
+                        }, 
+                        {
+                          "id": "Powermat"
+                        }, 
+                        {
+                          "id": "BellyFivestars"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Customer Management (restauraunt)", 
+                      "children": [
+                        {
+                          "id": "ClubKviar"
+                        }, 
+                        {
+                          "id": "Pocket Concierge"
+                        }, 
+                        {
+                          "id": "Qless"
+                        }, 
+                        {
+                          "id": "Toreta"
+                        }, 
+                        {
+                          "id": "Waitlist Me"
+                        }, 
+                        {
+                          "id": "Restorando"
+                        }, 
+                        {
+                          "id": "Velocity"
+                        }, 
+                        {
+                          "id": "Reserveout"
+                        }, 
+                        {
+                          "id": "Reserve"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Staffing/Employee Education", 
+                      "children": [
+                        {
+                          "id": "7Shifts"
+                        }, 
+                        {
+                          "id": "Serve"
+                        }, 
+                        {
+                          "id": "ShiftGig"
+                        }, 
+                        {
+                          "id": "PlanDay"
+                        }, 
+                        {
+                          "id": "WhenIWork"
+                        }, 
+                        {
+                          "id": "SchooX"
+                        }, 
+                        {
+                          "id": "Brigod"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: Management Business", 
+                  "children": [
+                    {
+                      "id": "Restaurant Management Systems", 
+                      "children": [
+                        {
+                          "id": "Toast"
+                        }, 
+                        {
+                          "id": "HotSchedules"
+                        }, 
+                        {
+                          "id": "Salido"
+                        }, 
+                        {
+                          "id": "Squadle"
+                        }, 
+                        {
+                          "id": "Upserve"
+                        }, 
+                        {
+                          "id": "PeachWorks"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Financial Management  for Restaurants ", 
+                      "children": [
+                        {
+                          "id": "PlateIQ"
+                        }, 
+                        {
+                          "id": "Sourcery"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }, 
     {
-      "id": "Advertising"
+      "id": "Advertising", 
+      "children": [
+        {
+          "id": "Advertise Location Providers", 
+          "children": [
+            {
+              "id": "Painpoint: Cost of Ad", 
+              "children": [
+                {
+                  "id": "Marketplace for ads", 
+                  "children": [
+                    {
+                      "id": "Q Interactive"
+                    }, 
+                    {
+                      "id": "DemandBase"
+                    }, 
+                    {
+                      "id": "Cooperatize"
+                    }, 
+                    {
+                      "id": "DataXu"
+                    }, 
+                    {
+                      "id": "SteelHouse"
+                    }, 
+                    {
+                      "id": "OwnerIQ"
+                    }, 
+                    {
+                      "id": "Centro"
+                    }, 
+                    {
+                      "id": "StackAdapt"
+                    }, 
+                    {
+                      "id": "ReTargeter"
+                    }, 
+                    {
+                      "id": "The TradeDesk"
+                    }, 
+                    {
+                      "id": "Vibrant"
+                    }, 
+                    {
+                      "id": "Goodway Group"
+                    }, 
+                    {
+                      "id": "IponWeb"
+                    }, 
+                    {
+                      "id": "Beeswax"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }, 
+        {
+          "id": "Businesses/Corporations", 
+          "children": [
+            {
+              "id": "Desire: To increase customers", 
+              "children": [
+                {
+                  "id": "Painpoint: Controlling how/what people see", 
+                  "children": [
+                    {
+                      "id": "Cross Platform Solutions", 
+                      "children": [
+                        {
+                          "id": "Single Platform"
+                        }, 
+                        {
+                          "id": "Yext"
+                        }, 
+                        {
+                          "id": "Synup"
+                        }, 
+                        {
+                          "id": "Uberall"
+                        }, 
+                        {
+                          "id": "Brandify"
+                        }, 
+                        {
+                          "id": "Adualya"
+                        }, 
+                        {
+                          "id": "Placeable"
+                        }, 
+                        {
+                          "id": "Perton"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: Creating material for advertising", 
+                  "children": [
+                    {
+                      "id": "Mobile", 
+                      "children": [
+                        {
+                          "id": "Crisp"
+                        }, 
+                        {
+                          "id": "StartApp"
+                        }, 
+                        {
+                          "id": "InMobi"
+                        }, 
+                        {
+                          "id": "Kargo"
+                        }, 
+                        {
+                          "id": "Millenial Media"
+                        }, 
+                        {
+                          "id": "VidMob"
+                        }
+                      ]
+                    }, 
+                    {
+                      "id": "Freelance Market", 
+                      "children": [
+                        {
+                          "id": "WorkMarket"
+                        }, 
+                        {
+                          "id": "Freelancer"
+                        }, 
+                        {
+                          "id": "Merlin"
+                        }, 
+                        {
+                          "id": "Upwrok"
+                        }, 
+                        {
+                          "id": "Guru"
+                        }
+                      ]
+                    }
+                  ]
+                }, 
+                {
+                  "id": "Painpoint: Understanding the customer", 
+                  "children": [
+                    {
+                      "id": "Data Analytics", 
+                      "children": [
+                        {
+                          "id": "Zeta Interactive"
+                        }, 
+                        {
+                          "id": "CrowdTwist"
+                        }, 
+                        {
+                          "id": "Smartly.io"
+                        }, 
+                        {
+                          "id": "AdRoll"
+                        }, 
+                        {
+                          "id": "Giant Media"
+                        }, 
+                        {
+                          "id": "Knotch"
+                        }, 
+                        {
+                          "id": "AdHawk"
+                        }, 
+                        {
+                          "id": "Media Math"
+                        }, 
+                        {
+                          "id": "Live Ramp"
+                        }, 
+                        {
+                          "id": "Fluent Inc. "
+                        }, 
+                        {
+                          "id": "AppNexus"
+                        }, 
+                        {
+                          "id": "Smart (Ad)"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
